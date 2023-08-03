@@ -54,16 +54,6 @@ python main.py --data_name rain100H --model_file result/rain100H.pth
 <br>
 
 
-## Image Deraining Samples
-
-The following images are taken from the model training phase. The improvement and deraining of the image sample can be observed.
-
-![X](sample-1.png)
-
-
-![X](sample-2.png)
-
-<br>
 
 ## Benchmarks
 
